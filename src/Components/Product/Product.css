@@ -1,0 +1,16 @@
+
+
+.product-contaier{
+    display: flex;
+    border: 5px solid gray;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+.product-details{
+    margin-left: 30px;
+}
+.shopping-btn{
+    background-color:goldenrod;
+    height:30px;
+}
